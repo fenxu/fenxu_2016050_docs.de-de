@@ -15,6 +15,20 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs"
+    },
+    {
+      "docset_name": "fenxu_20160505_2",
+      "build_source_folder": "fenxu_20160505_2",
+      "build_output_subfolder": "fenxu_20160505_2",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs"
     }
   ],
   "branches_to_filter": [
