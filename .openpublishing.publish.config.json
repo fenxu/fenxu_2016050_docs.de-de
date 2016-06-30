@@ -1,6 +1,7 @@
 {
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
+  "git_repository_url_open_to_public_contributors": "https://github.com/fenxu/fenxu_2016050_docs.de-de",
   "git_repository_branch_open_to_public_contributors": "master",
   "docsets_to_publish": [
     {
